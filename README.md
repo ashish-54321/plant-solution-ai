@@ -9,7 +9,6 @@
 ---
 
 ![Plant Solution Screenshot 1](./screenshot-hero.png)
-![Uploading image.png…]()
 
 
 > **Plant Solution** — Fast, secure, and user-friendly web application that provides instant plant identification, plant health & infection analysis, and personalized weekly care schedules — all for free.
@@ -106,6 +105,10 @@
 **Weekly Care Schedule**
 
 ![Screenshot - Schedule](./screenshot-schedule.png)
+
+**AI Chat Bot**
+
+![Screenshot - Chat Bot](./screenshot-schedule.png)
 
 > Add your exported screenshots to the repo as: `screenshot-hero.png`, `screenshot-identify.png`, `screenshot-diagnose.png`, `screenshot-schedule.png`.
 
