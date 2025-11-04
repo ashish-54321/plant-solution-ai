@@ -8,7 +8,7 @@
 
 ---
 
-![Plant Solution Screenshot 1](./screenshot-hero.png)
+![Plant Solution Screenshot 1](./images/s1.png)
 
 
 > **Plant Solution** — Fast, secure, and user-friendly web application that provides instant plant identification, plant health & infection analysis, and personalized weekly care schedules — all for free.
