@@ -92,23 +92,28 @@
 
 **Homepage / Hero**
 
-![Screenshot - Hero](./screenshot-hero-2.png)
+![Screenshot - Hero](./images/s2.png)
 
 **Identify Result Example**
 
-![Screenshot - Identify Result](./screenshot-identify.png)
+![Screenshot - Identify Result](./images/s3.png)
+![Screenshot - Identify Result](./images/s3.1.png)
+![Screenshot - Identify Result](./images/s3.2.png)
 
 **Diagnose Result Example**
 
-![Screenshot - Diagnose Result](./screenshot-diagnose.png)
+![Screenshot - Diagnose Result](./images/s4.png)
+![Screenshot - Diagnose Result](./images/s4.2.png)
 
 **Weekly Care Schedule**
 
-![Screenshot - Schedule](./screenshot-schedule.png)
+![Screenshot - Schedule](./images/s5.png)
+![Screenshot - Schedule](./images/s5.1.png)
 
 **AI Chat Bot**
 
-![Screenshot - Chat Bot](./screenshot-schedule.png)
+![Screenshot - Chat Bot](./images/s6.png)
+![Screenshot - Chat Bot](./images/s6.1.png)
 
 > Add your exported screenshots to the repo as: `screenshot-hero.png`, `screenshot-identify.png`, `screenshot-diagnose.png`, `screenshot-schedule.png`.
 
