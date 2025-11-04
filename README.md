@@ -162,7 +162,7 @@ PORT=3000
 * **Website:** [https://plantsolutions.netlify.app](https://plantsolutions.netlify.app)
 * **Award:** Hackmore 2024 — 2nd Place
 
-For collaboration or data removal requests, contact: `ashish@example.com` (replace with real email)
+For collaboration or data removal requests, contact: `anamikatiwari318@gmail.com`
 
 ---
 
