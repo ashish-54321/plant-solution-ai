@@ -165,7 +165,7 @@ PORT=3000
 For collaboration or data removal requests, contact: `anamikatiwari318@gmail.com`
 
 ---
-## Other Tool EMI Calculator **Website:** ([https://plantsolutions.netlify.app](https://emi-calculator-tool.netlify.app/))
+## Other Tool EMI Calculator **Website:** [https://emi-calculator-tool.netlify.app/](https://emi-calculator-tool.netlify.app/)
 
 ## 📜 License
 
