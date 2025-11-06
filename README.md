@@ -1,4 +1,4 @@
-# 🌿 Plant Solution
+#  Plant Solution
 
 **Official Website:** [https://plantsolutions.netlify.app](https://plantsolutions.netlify.app)
 
@@ -165,6 +165,7 @@ PORT=3000
 For collaboration or data removal requests, contact: `anamikatiwari318@gmail.com`
 
 ---
+## Other Tool EMI Calculator **Website:** ([https://plantsolutions.netlify.app](https://emi-calculator-tool.netlify.app/))
 
 ## 📜 License
 
@@ -173,3 +174,4 @@ This project is released under the **MIT License**. See `LICENSE` for details.
 ---
 
 *Made with ❤️ using React, Tailwind & a little plant-love.*
+
